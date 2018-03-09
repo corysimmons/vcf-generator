@@ -1,8 +1,6 @@
 # vcf-generator
 
-<p width="300px">
-![](https://user-images.githubusercontent.com/224636/37212778-0884011e-237e-11e8-975d-56998e98e1c3.png)
-</p>
+<img width="300px" src="https://user-images.githubusercontent.com/224636/37212778-0884011e-237e-11e8-975d-56998e98e1c3.png">
 
 ## Install
 
