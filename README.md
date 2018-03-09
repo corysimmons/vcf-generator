@@ -1,5 +1,7 @@
 # vcf-generator
 
+![](https://user-images.githubusercontent.com/224636/37212778-0884011e-237e-11e8-975d-56998e98e1c3.png)
+
 ## Install
 
 `npm i -D vcf-generator`
