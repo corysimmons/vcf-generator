@@ -4,7 +4,7 @@
 
 ## Install
 
-`npm i -D vcf-generator`
+Download the zip
 
 ## Usage
 
